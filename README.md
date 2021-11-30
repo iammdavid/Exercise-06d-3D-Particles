@@ -23,4 +23,4 @@ None
 None
 
 ## Created by 
-David Vaufhn
+David Vaughn
